@@ -1,11 +1,7 @@
 # attendance
 
 #### 项目介绍
-<<<<<<< HEAD
-河南科技学院数电考勤签到
-=======
 考勤签到系统，前台使用高德地图浏览器定位api，获取经纬度。后台使用spring boot，spring boot jpa，mysql。
->>>>>>> 8deca481e93cc4b1a2d968172447bd75b37941c9
 
 #### 软件架构
 软件架构说明
