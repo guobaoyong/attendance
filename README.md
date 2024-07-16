@@ -7,7 +7,7 @@
 - Spring Boot JPA
 - MySQL
 
-# 运行效果图
+## 运行效果图
 <img src="运行效果/1.png" width="100%"></img>
 <img src="运行效果/2.png" width="100%"></img>
 <img src="运行效果/3.png" width="100%"></img>
